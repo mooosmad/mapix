@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785705396836",
+    "project_id": "mapix-63ba6",
+    "storage_bucket": "mapix-63ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785705396836:android:03faba698c0e4f27a34d71",
+        "android_client_info": {
+          "package_name": "com.pioupiou.mapix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785705396836-h1fub3ep0c1q8lhu1sv0g9rlhch84u9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw26CMWt26yyXwzM-I8C5Xkq38qVZhpn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785705396836-h1fub3ep0c1q8lhu1sv0g9rlhch84u9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
